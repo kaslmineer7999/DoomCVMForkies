@@ -10,6 +10,6 @@ a program to doom almost all CVM forkies
    ```
 2. run the script by running:
    ```
-   ./run.sh
+   ./linux.sh
    ```
 3. enjoy seeing CVM forkies suffer
